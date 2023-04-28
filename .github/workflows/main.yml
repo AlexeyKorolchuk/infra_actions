@@ -12,8 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: One line script
-      run: echo hello, Alex
+      run: echo Hello, Alex!
     - name: Two line script
       run: |
-        echo you are,
-        echo GREAT
+        echo You are really
+        echo GREAT!
