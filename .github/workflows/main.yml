@@ -12,6 +12,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - run: echo hello, Alex
-    - run |
+    - run: |
       echo you are
       echo GREAT
